@@ -1,2 +1,1 @@
-# wirekmock
-Kotlin DSL for Wiremock
+# WireKMock - Kotlin DSL for WireMock
